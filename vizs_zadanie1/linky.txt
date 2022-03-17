@@ -1,0 +1,5 @@
+navod:
+https://pysource.com/2018/12/29/real-time-shape-detection-opencv-with-python-3/
+
+color picker:
+https://alloyui.com/examples/color-picker/hsv.html
